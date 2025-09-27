@@ -45,7 +45,7 @@ export function Header() {
             <Link href="/products" className="text-sm font-medium hover:text-primary transition-colors">
               Products
             </Link>
-            <Link href="/categories" className="text-sm font-medium hover:text-primary transition-colors">
+            <Link href="#categories-section" className="text-sm font-medium hover:text-primary transition-colors">
               Categories
             </Link>
             <Link href="/about" className="text-sm font-medium hover:text-primary transition-colors">
